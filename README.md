@@ -2,11 +2,6 @@
 
 #### Desde pequeno sempre fui apaixonado por tecnologias, e ao longos dos anos um vínculo muito forte por programação foi consolidado. Hoje aos 14 anos, com 6 meses de experiência na área, estou sempre me desafiando e buscando aprimoramento.
 
-## Cursos Realizados
-- Curso Em Video - HTML5, CSS3 & JavaScript; 
-- Origamid - CSS FlexBox & CSS Grid Layout;
-- Desenvolvimento Web;
-
 ## Tecnologias Que Tenho Interesse
 ![Tecnologias](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tecnologias](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
