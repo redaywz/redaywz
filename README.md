@@ -9,7 +9,7 @@
 ![Tecnologias](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tecnologias](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redaywz&locale=en&hide_title=false&layout=compact&card_width=295&langs_count=6&theme=dracula&hide_border=false&order=2" height="165" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redaywz&locale=en&hide_title=false&layout=compact&card_width=295&langs_count=6&theme=dracula&hide_border=true&order=2" height="165" alt="languages graph"  />
 </div>
 
 ###
