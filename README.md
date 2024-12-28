@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Victor Miguel. 🕵️‍♂️
 
-#### Desde pequeno sempre fui apaixonado por tecnologias, e ao longos dos anos um vínculo muito forte por programação foi consolidado. Hoje aos 14 anos, com 6 meses de experiência na área, estou sempre me desafiando e buscando aprimoramento.
+#### Desde pequeno sempre fui apaixonado por tecnologias, e ao longos dos anos um vínculo muito forte por programação foi consolidado. Hoje aos 15 anos, com 1 ano de experiência na área, estou sempre me desafiando e buscando aprimoramento.
 
 ## Tecnologias Que Tenho Interesse
 ![Tecnologias](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
